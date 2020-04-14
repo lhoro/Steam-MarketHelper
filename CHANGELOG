@@ -1,0 +1,5 @@
+V 0.1
+- sprawdzenie ceny zlecenia
+- sprawdzenie 5 pierwszych ofert
+- obliczanie zysków dla 5 ofert
+- wyświeltenie zysków jako alerty
