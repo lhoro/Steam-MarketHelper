@@ -7,3 +7,8 @@ V 0.1
 V 0.2
 - wyświetlanie zysków w body
 
+V 0.3 
+- poprawa błędu  wyświetlającego undefined 
+- zmiana zmiennych na angielski
+- poprawa sprawdzania ceny zlecenia ( teraz wykonuje się raz na początku a nie za każdym sprawdzeniem cen wystawionych przedmiotów)
+- kolorowanie profitu w zależności od zysków/strat
