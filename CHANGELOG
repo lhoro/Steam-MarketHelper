@@ -16,3 +16,9 @@ V 0.3
 V 0.3.1
 - poprawiono sprawdzanie cen powyżej 999zł
 - poparwiono błąd powodujący wysypanie się skryptu przy ilości ofert sprzedaży mniejszej niż 5 
+
+V 0.4
+- zmieniono położenie pokazyania wyników
+- sprawdza wszystkie elementy na stronie a nie tylko 5
+- odbugowano gdy jeden z elementów został sprzedany w momencie wejścia na stronę
+- pozbyto się niektórych fragmentów jquery
