@@ -1,0 +1,24 @@
+V 0.4
+- zmieniono położenie pokazyania wyników
+- sprawdza wszystkie elementy na stronie a nie tylko 5
+- odbugowano gdy jeden z elementów został sprzedany w momencie wejścia na stronę
+- pozbyto się niektórych fragmentów jquery
+
+V 0.3.1
+- poprawiono sprawdzanie cen powyżej 999zł
+- poparwiono błąd powodujący wysypanie się skryptu przy ilości ofert sprzedaży mniejszej niż 5 
+
+- V 0.3 
+- poprawa błędu  wyświetlającego undefined 
+- zmiana zmiennych na angielski
+- poprawa sprawdzania ceny zlecenia ( teraz wykonuje się raz na początku a nie za każdym sprawdzeniem cen wystawionych przedmiotów)
+- kolorowanie profitu w zależności od zysków/strat
+
+V 0.2
+- wyświetlanie zysków w body
+
+V 0.1
+- sprawdzenie ceny zlecenia
+- sprawdzenie 5 pierwszych ofert
+- obliczanie zysków dla 5 ofert
+- wyświeltenie zysków jako alerty
