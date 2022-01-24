@@ -8,7 +8,7 @@ V 0.3.1
 - poprawiono sprawdzanie cen powyżej 999zł
 - naprawiono problem występujący gdy wystawionych było mniej niż 5 sztuk danego przedmiotu (mniejsza liczba elementów element wysypywała kod)
 
-- V 0.3 
+V 0.3 
 - optymalizacja kodu
 - poprawa błędu  wyświetlającego "undefined"
 - kolorowanie profitu w zależności od zysków/strat
