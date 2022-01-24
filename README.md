@@ -1,17 +1,16 @@
 V 0.4
-- zmieniono położenie pokazyania wyników
-- sprawdza wszystkie elementy na stronie a nie tylko 5
-- odbugowano gdy jeden z elementów został sprzedany w momencie wejścia na stronę
-- pozbyto się niektórych fragmentów jquery
+- zmieniono położenie wyświetlania wyników
+- od teraz sprawdzane są wszystkie elementy na stronie a nie tylko 5 jak było wcześniej
+- odbugowano gdy jeden z elementów został sprzedany w momencie wejścia na stronę (pusty element wysypywał kod)
+- pozbyto się zbędnych fragmentów kodu
 
 V 0.3.1
 - poprawiono sprawdzanie cen powyżej 999zł
-- poparwiono błąd powodujący wysypanie się skryptu przy ilości ofert sprzedaży mniejszej niż 5 
+- naprawiono problem występujący gdy wystawionych było mniej niż 5 sztuk danego przedmiotu (mniejsza liczba elementów element wysypywała kod)
 
 - V 0.3 
-- poprawa błędu  wyświetlającego undefined 
-- zmiana zmiennych na angielski
-- poprawa sprawdzania ceny zlecenia ( teraz wykonuje się raz na początku a nie za każdym sprawdzeniem cen wystawionych przedmiotów)
+- optymalizacja kodu
+- poprawa błędu  wyświetlającego "undefined"
 - kolorowanie profitu w zależności od zysków/strat
 
 V 0.2
